@@ -1,0 +1,34 @@
+diff --git a/..HEAD b/..HEAD
+new file mode 100644
+index 0000000..e69de29
+diff --git a/capitulos/capitulo1.txt b/capitulos/capitulo1.txt
+index f4068a7..7431f9e 100644
+--- a/capitulos/capitulo1.txt
++++ b/capitulos/capitulo1.txt
+@@ -1 +1 @@
+-Git es un sistema de control de versiones ideado por Linus Torvalds.
+\ No newline at end of file
++Git es un sistema de control de versiones ideado por Linus Torvalds.
+diff --git a/capitulos/capitulo2.txt b/capitulos/capitulo2.txt
+index 4726cf5..6840a6e 100644
+--- a/capitulos/capitulo2.txt
++++ b/capitulos/capitulo2.txt
+@@ -1,4 +1,5 @@
+-El flujo de trabajo básico con Git consiste en: 
+-1- Hacer cambios en el repositorio. 
+-2- Añadir los cambios a la zona de intercambio temporal. 
+-3- Hacer un commit de los cambios.
+\ No newline at end of file
++El flujo de trabajo básico con Git consiste en:
++1- Hacer cambios en el repositorio.
++2- Añadir los cambios a la zona de intercambio temporal.
++3- Hacer un commit de los cambios.
++
+\ No newline at end of file
+diff --git a/capitulos/capitulo3.txt b/capitulos/capitulo3.txt
+index 534b9a9..e69de29 100644
+--- a/capitulos/capitulo3.txt
++++ b/capitulos/capitulo3.txt
+@@ -1 +0,0 @@
+-Git permite la creación de ramas lo que permite tener distintas versiones del mismo proyecto y trabajar de manera simultanea en ellas.
+\ No newline at end of file
